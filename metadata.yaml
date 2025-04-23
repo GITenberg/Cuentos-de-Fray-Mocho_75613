@@ -1,0 +1,96 @@
+_repo: Cuentos-de-Fray-Mocho_75613
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Cané, Miguel
+    alias: Cane, Miguel
+    birthdate: 1851
+    deathdate: 1905
+    gutenberg_agent_id: '33641'
+    url: http://www.gutenberg.org/2009/agents/33641
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Miguel_Can%C3%A9
+    - https://es.wikipedia.org/wiki/Miguel_Can%C3%A9
+creator:
+  author:
+    agent_name: Alvarez, José S. (José Sixto)
+    aliases:
+    - Mocho, Fray
+    - Alvarez, José Sixto
+    - Alvarez, Jose Sixto
+    - Álvarez, José Sixto
+    - Carrizo, Fabio
+    birthdate: 1858
+    deathdate: 1903
+    gutenberg_agent_id: '8732'
+    url: http://www.gutenberg.org/2009/agents/8732
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Fray_Mocho
+    - https://es.wikipedia.org/wiki/Fray_Mocho
+description: 'Reading ease score: 64.4 (8th & 9th grade). Neither easy nor difficult
+  to read.'
+gutenberg_bookshelf:
+- 'Browsing: Culture/Civilization/Society'
+- 'Browsing: Literature'
+gutenberg_issued: '2025-03-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75613'
+  lccn: '30014455'
+language: es
+pgterms:marc904: https://archive.org/details/cuentosdefraymoc00alva/page/18/mode/2up,
+  dp-post@pg-dp.net
+pgterms:marc905: 20240505124227lvarez
+pgterms:marc906: '1920'
+pgterms:marc907: AR
+production_note: Andrés V. Galia and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/Canadian
+  Libraries)
+publication_note: '  $aBuenos Aires :$bVaccaro, $c1920.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Argentine fiction -- 19th century'
+- !lcsh 'Short stories, Argentine'
+- !lcc 'PQ'
+- GITenberg
+summary: '"Cuentos de Fray Mocho" by José S. Álvarez is a collection of short stories
+  written in the early 20th century. The narratives are steeped in the rich cultural
+  and social fabric of Argentina, reflecting its local dialects and customs. The tales
+  observe various characters, from the lechero (milkman) to everyday people in Buenos
+  Aires, illuminating their lives with humor and poignant insight.  The opening of
+  this collection sets the tone by establishing the nostalgic elements of Argentine
+  life, particularly through the character of the lechero. The narrative captures
+  the transformation of traditional roles and the diminishing charm of the past, as
+  it juxtaposes the lively, spirited, and familiar figure of the old milkman with
+  the more serious and mundane modern vendor. This reflective commentary serves as
+  a gateway into a series of stories filled with local flavors, character-driven humor,
+  and social critiques, inviting readers to explore the changing landscapes of Argentine
+  culture and identity. (This is an automatically generated summary.)'
+tableOfContents: Fray Mocho, por Miguel Cané -- El lechero -- Pascalino -- Instantánea
+  -- Monologando -- Me mudo al norte -- Más vale maña que fuerza -- Tierna despedida
+  -- El marchante más antiguo -- Entre dos mates -- El ahijado del comisario -- Cada
+  cual se agarra con las uñas que tiene -- Filosofando -- Entre amigos -- Cuartelera
+  -- ¿Y a mí, quién me agarra? -- Instantánea -- Entre el recado y la silla -- En
+  familia -- A la hora del té -- Como víbora que ha perdido la ponzoña -- Escuela
+  de campaña -- Ni con cuarta -- Confidencias -- Al vuelo -- Conspirando -- En las
+  antesalas del Congreso -- Del natural -- ¿No es verdá, nena? -- Reminiscencia --
+  Saudades -- Paisajes -- Donde las dan las toman -- Centenarios de hojalata -- Cada
+  cual come en su plato -- Pechadores -- Cazando al vuelo -- Cosas de negros -- Cuentos
+  de caza -- Notas de viaje -- ¿A mí?... ¡con la piolita! -- Del mismo pelo -- ¡Qué
+  suerte pa las de Miguens! -- Siempre amigo -- ¡El pobre amigo! -- Entre dos copas
+  -- Flirt -- Los tiempos de aura -- Tirando al aire -- La caza del cóndor -- Como
+  en familia -- Desertor -- La junta de la cuchilla -- En el bañado -- De raza --
+  Patriotismo... y caldo gordo -- Divorçons... en criollo -- ¡Cuatrerismo vivito!
+  -- Entre yo y mi perro -- Carnavalesca -- De vuelta del Paraguay -- Frente a frente
+  -- Entre gentes de confianza -- ¡Robadita! -- De baquet'a sacatrapo -- Sin revancha
+  -- ¡Ojo por ojo! -- El hijo de doñ'Amalia -- Después del recibo -- ¡Viva Chile...
+  y siga el baile! -- El cazador de tigres -- Diplomático en botón -- Nobleza del
+  pago -- Una cura por el agua -- Entre rentistas -- Política casera -- Confidencias
+  -- La economía es la madre de la riqueza -- La despedida -- Mi primo Sebastián --
+  En familia -- Callejera -- El café de la Recova -- En confianza -- Callejera --
+  Milico viejo -- Robustiano Miñones -- La bienvenida -- Haciendo lobos de mar --
+  Regalos de boda -- Bordoneo -- "Entidá Judicial" -- "Las etcéteras."
+title: Cuentos de Fray Mocho
+url: http://www.gutenberg.org/ebooks/75613

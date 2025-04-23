@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xml:base="http://www.gutenberg.org/"
+  xmlns:marcrel="http://id.loc.gov/vocabulary/relators/"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:pgterms="http://www.gutenberg.org/2009/pgterms/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:cc="http://web.resource.org/cc/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:dcam="http://purl.org/dc/dcam/"
+>
+  <pgterms:ebook rdf:about="ebooks/75613">
+    <dcterms:publisher>Project Gutenberg</dcterms:publisher>
+    <dcterms:license rdf:resource="license"/>
+    <dcterms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-03-14</dcterms:issued>
+    <dcterms:rights>Public domain in the USA.</dcterms:rights>
+    <pgterms:downloads rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">614</pgterms:downloads>
+    <dcterms:creator>
+      <pgterms:agent rdf:about="2009/agents/8732">
+        <pgterms:name>Alvarez, José S. (José Sixto)</pgterms:name>
+        <pgterms:birthdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1858</pgterms:birthdate>
+        <pgterms:deathdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1903</pgterms:deathdate>
+        <pgterms:alias>Mocho, Fray</pgterms:alias>
+        <pgterms:alias>Alvarez, José Sixto</pgterms:alias>
+        <pgterms:alias>Alvarez, Jose Sixto</pgterms:alias>
+        <pgterms:alias>Álvarez, José Sixto</pgterms:alias>
+        <pgterms:alias>Carrizo, Fabio</pgterms:alias>
+        <pgterms:webpage rdf:resource="https://en.wikipedia.org/wiki/Fray_Mocho"/>
+        <pgterms:webpage rdf:resource="https://es.wikipedia.org/wiki/Fray_Mocho"/>
+      </pgterms:agent>
+    </dcterms:creator>
+    <marcrel:aui>
+      <pgterms:agent rdf:about="2009/agents/33641">
+        <pgterms:name>Cané, Miguel</pgterms:name>
+        <pgterms:birthdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1851</pgterms:birthdate>
+        <pgterms:deathdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1905</pgterms:deathdate>
+        <pgterms:alias>Cane, Miguel</pgterms:alias>
+        <pgterms:webpage rdf:resource="https://en.wikipedia.org/wiki/Miguel_Can%C3%A9"/>
+        <pgterms:webpage rdf:resource="https://es.wikipedia.org/wiki/Miguel_Can%C3%A9"/>
+      </pgterms:agent>
+    </marcrel:aui>
+    <pgterms:marc010>30014455</pgterms:marc010>
+    <dcterms:title>Cuentos de Fray Mocho</dcterms:title>
+    <pgterms:marc260>  $aBuenos Aires :$bVaccaro, $c1920.</pgterms:marc260>
+    <dcterms:description>Reading ease score: 64.4 (8th &amp; 9th grade). Neither easy nor difficult to read.</dcterms:description>
+    <dcterms:tableOfContents>Fray Mocho, por Miguel Cané -- El lechero -- Pascalino -- Instantánea -- Monologando -- Me mudo al norte -- Más vale maña que fuerza -- Tierna despedida -- El marchante más antiguo -- Entre dos mates -- El ahijado del comisario -- Cada cual se agarra con las uñas que tiene -- Filosofando -- Entre amigos -- Cuartelera -- ¿Y a mí, quién me agarra? -- Instantánea -- Entre el recado y la silla -- En familia -- A la hora del té -- Como víbora que ha perdido la ponzoña -- Escuela de campaña -- Ni con cuarta -- Confidencias -- Al vuelo -- Conspirando -- En las antesalas del Congreso -- Del natural -- ¿No es verdá, nena? -- Reminiscencia -- Saudades -- Paisajes -- Donde las dan las toman -- Centenarios de hojalata -- Cada cual come en su plato -- Pechadores -- Cazando al vuelo -- Cosas de negros -- Cuentos de caza -- Notas de viaje -- ¿A mí?... ¡con la piolita! -- Del mismo pelo -- ¡Qué suerte pa las de Miguens! -- Siempre amigo -- ¡El pobre amigo! -- Entre dos copas -- Flirt -- Los tiempos de aura -- Tirando al aire -- La caza del cóndor -- Como en familia -- Desertor -- La junta de la cuchilla -- En el bañado -- De raza -- Patriotismo... y caldo gordo -- Divorçons... en criollo -- ¡Cuatrerismo vivito! -- Entre yo y mi perro -- Carnavalesca -- De vuelta del Paraguay -- Frente a frente -- Entre gentes de confianza -- ¡Robadita! -- De baquet'a sacatrapo -- Sin revancha -- ¡Ojo por ojo! -- El hijo de doñ'Amalia -- Después del recibo -- ¡Viva Chile... y siga el baile! -- El cazador de tigres -- Diplomático en botón -- Nobleza del pago -- Una cura por el agua -- Entre rentistas -- Política casera -- Confidencias -- La economía es la madre de la riqueza -- La despedida -- Mi primo Sebastián -- En familia -- Callejera -- El café de la Recova -- En confianza -- Callejera -- Milico viejo -- Robustiano Miñones -- La bienvenida -- Haciendo lobos de mar -- Regalos de boda -- Bordoneo -- "Entidá Judicial" -- "Las etcéteras."</dcterms:tableOfContents>
+    <pgterms:marc508>Andrés V. Galia and the Online Distributed Proofreading Team at https://www.pgdp.net (This file was produced from images generously made available by The Internet Archive/Canadian Libraries)</pgterms:marc508>
+    <pgterms:marc520>"Cuentos de Fray Mocho" by José S. Álvarez is a collection of short stories written in the early 20th century. The narratives are steeped in the rich cultural and social fabric of Argentina, reflecting its local dialects and customs. The tales observe various characters, from the lechero (milkman) to everyday people in Buenos Aires, illuminating their lives with humor and poignant insight.  The opening of this collection sets the tone by establishing the nostalgic elements of Argentine life, particularly through the character of the lechero. The narrative captures the transformation of traditional roles and the diminishing charm of the past, as it juxtaposes the lively, spirited, and familiar figure of the old milkman with the more serious and mundane modern vendor. This reflective commentary serves as a gateway into a series of stories filled with local flavors, character-driven humor, and social critiques, inviting readers to explore the changing landscapes of Argentine culture and identity. (This is an automatically generated summary.)</pgterms:marc520>
+    <pgterms:marc904>https://archive.org/details/cuentosdefraymoc00alva/page/18/mode/2up, dp-post@pg-dp.net</pgterms:marc904>
+    <pgterms:marc905>20240505124227lvarez</pgterms:marc905>
+    <pgterms:marc906>1920</pgterms:marc906>
+    <pgterms:marc907>AR</pgterms:marc907>
+    <dcterms:language>
+      <rdf:Description rdf:nodeID="N23c36e70e98341d9a03c39c8916d968a">
+        <rdf:value rdf:datatype="http://purl.org/dc/terms/RFC4646">es</rdf:value>
+      </rdf:Description>
+    </dcterms:language>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="N7c81a4f59b3d449aaafd841940ce2939">
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+        <rdf:value>Argentine fiction -- 19th century</rdf:value>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="N7050b3b560ff41a3929674d94b3ea45f">
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+        <rdf:value>Short stories, Argentine</rdf:value>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="N050e075c44864e7785577dbdcbe424cc">
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCC"/>
+        <rdf:value>PQ</rdf:value>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:type>
+      <rdf:Description rdf:nodeID="N74c5229d8b21415caa4ab4e7c0ea69cb">
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/DCMIType"/>
+        <rdf:value>Text</rdf:value>
+      </rdf:Description>
+    </dcterms:type>
+    <pgterms:bookshelf>
+      <rdf:Description rdf:nodeID="N85f6c449f0a44422bbded8833d32deae">
+        <dcam:memberOf rdf:resource="2009/pgterms/Bookshelf"/>
+        <rdf:value>Browsing: Culture/Civilization/Society</rdf:value>
+      </rdf:Description>
+    </pgterms:bookshelf>
+    <pgterms:bookshelf>
+      <rdf:Description rdf:nodeID="N2d9f322170124b51ad1f8c327c4e7876">
+        <dcam:memberOf rdf:resource="2009/pgterms/Bookshelf"/>
+        <rdf:value>Browsing: Literature</rdf:value>
+      </rdf:Description>
+    </pgterms:bookshelf>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/75613.html.images">
+        <dcterms:isFormatOf rdf:resource="ebooks/75613"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">498091</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-17T10:01:56.556151</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Ne1696e07573b4f18b3aa5187887ae52f">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/75613/75613-h/75613-h.htm">
+        <dcterms:isFormatOf rdf:resource="ebooks/75613"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">471716</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-14T09:26:16</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N39ca54fedccd420a9443bae4a24784e5">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/75613.epub3.images">
+        <dcterms:isFormatOf rdf:resource="ebooks/75613"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">477396</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-17T10:02:05.382621</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N2f1b0833d94b442bb22bee7a13cb50ea">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/epub+zip</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/75613.epub.images">
+        <dcterms:isFormatOf rdf:resource="ebooks/75613"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">481699</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-17T10:01:58.779139</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N090c57f07981425b812f05040971a599">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/epub+zip</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/75613.epub.noimages">
+        <dcterms:isFormatOf rdf:resource="ebooks/75613"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">290649</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-17T10:01:57.442202</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nc32a83e3b0b34ab7b2b0068492cd5752">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/epub+zip</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/75613.kf8.images">
+        <dcterms:isFormatOf rdf:resource="ebooks/75613"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">612125</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-17T10:02:09.812579</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nc9694430b2ac4fca81d26f11d6124398">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/x-mobipocket-ebook</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/75613.kindle.images">
+        <dcterms:isFormatOf rdf:resource="ebooks/75613"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">588533</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-17T10:02:04.457601</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N588c00b3e1444b509f9f01095f898055">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/x-mobipocket-ebook</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/75613.txt.utf-8">
+        <dcterms:isFormatOf rdf:resource="ebooks/75613"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">452564</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-17T10:01:55.137162</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Ne75e349aeafc4fcebc4e44d300c113f5">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=us-ascii</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/75613/75613-0.txt">
+        <dcterms:isFormatOf rdf:resource="ebooks/75613"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">432628</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-14T09:26:16</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N59b76e1d307049c8bf5a8ee8d026e08d">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=us-ascii</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/75613.rdf">
+        <dcterms:isFormatOf rdf:resource="ebooks/75613"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17638</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-17T10:02:10.586575</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N1d50fb4b465049b5a85652003918b6e4">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/rdf+xml</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/cache/epub/75613/pg75613.cover.medium.jpg">
+        <dcterms:isFormatOf rdf:resource="ebooks/75613"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">27700</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-17T10:01:58.071141</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Ne7e82fb19aef4fd59d96bcab070fa99b">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">image/jpeg</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/cache/epub/75613/pg75613.cover.small.jpg">
+        <dcterms:isFormatOf rdf:resource="ebooks/75613"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4103</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-17T10:01:57.725157</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nccb805e007164971a1ea398aa696b231">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">image/jpeg</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/cache/epub/75613/pg75613-h.zip">
+        <dcterms:isFormatOf rdf:resource="ebooks/75613"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">458293</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-17T10:01:56.609159</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N70add5a550d44a6a8e55e8b5dbe8e180">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value>application/octet-stream</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N3879b6ab636c40cca2aa97976d79665a">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+  </pgterms:ebook>
+  <cc:Work rdf:about="">
+    <cc:license rdf:resource="https://creativecommons.org/publicdomain/zero/1.0/"/>
+    <rdfs:comment>Archives containing the RDF files for *all* our books can be downloaded at
+            https://www.gutenberg.org/wiki/Gutenberg:Feeds#The_Complete_Project_Gutenberg_Catalog</rdfs:comment>
+  </cc:Work>
+  <rdf:Description rdf:about="https://es.wikipedia.org/wiki/Miguel_Can%C3%A9">
+    <dcterms:description>es.wikipedia</dcterms:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://es.wikipedia.org/wiki/Fray_Mocho">
+    <dcterms:description>es.wikipedia</dcterms:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://en.wikipedia.org/wiki/Miguel_Can%C3%A9">
+    <dcterms:description>en.wikipedia</dcterms:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://en.wikipedia.org/wiki/Fray_Mocho">
+    <dcterms:description>en.wikipedia</dcterms:description>
+  </rdf:Description>
+</rdf:RDF>
