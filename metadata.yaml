@@ -11,6 +11,9 @@ contributor:
     wikipedia:
     - https://en.wikipedia.org/wiki/Miguel_Can%C3%A9
     - https://es.wikipedia.org/wiki/Miguel_Can%C3%A9
+covers:
+- cover_type: archival
+  image_path: 75613-h/images/cover.jpg
 creator:
   author:
     agent_name: Alvarez, José S. (José Sixto)
@@ -29,6 +32,8 @@ creator:
     - https://es.wikipedia.org/wiki/Fray_Mocho
 description: 'Reading ease score: 64.4 (8th & 9th grade). Neither easy nor difficult
   to read.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75613#Cuentos-de-Fray-Mocho
 gutenberg_bookshelf:
 - 'Browsing: Culture/Civilization/Society'
 - 'Browsing: Literature'
